@@ -1,0 +1,54 @@
+/* 
+    Document   : index
+    Created on : 5 juin 2012, 14:09:49
+    Author     : NICO
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    font-family:"Arial",Georgia;
+    text-align:center;
+}
+
+#corps {
+    width: 70%;
+/*    text-align: left;*/
+    min-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color:#E4EFFF;
+    border:1px solid #9FC6FF;
+}
+
+ul{
+    text-align: left;
+    margin-left: 75px;
+}
+
+#connexion {
+    width: 40%;
+    min-height: 150px;
+    padding:15px;
+    border-radius: 10px;
+    background-color:#B2CFFF;
+    border:1px solid #9FC6FF;
+    margin-top: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 85px;
+}
+
+#button {
+    background-color: #0099ff;
+    border: 1px solid #000099;
+    color: #ffffff;
+    font-size: 12px;
+    font-family: arial;
+    font-weight: bold;
+    padding: 4px;
+}
+a:visited {
+    color:blue;
+}
